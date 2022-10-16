@@ -1,0 +1,20 @@
+{
+  "name": "mongopractic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdiFischer/mongopractic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdiFischer/mongopractic/issues"
+  },
+  "homepage": "https://github.com/AdiFischer/mongopractic#readme"
+}
